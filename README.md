@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvpal05&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvpal05" /> </p>
 
-- 🌱 I’m currently learning **Django**
-
 - 📫 How to reach me **dhruv416pal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
