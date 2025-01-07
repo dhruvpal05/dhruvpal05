@@ -12,7 +12,7 @@
 ---
 
 ### 🌱 Projects
-- **[CodeGini](https://github.com/dhruvpal05/CodeGini):** VSCode extension integrating multiple LLMs for code suggestions.
+- **[CodeGini](https://github.com/Dakshya52/CodeGini):** VSCode extension integrating multiple LLMs for code suggestions.
 - **[Promptopia](https://github.com/dhruvpal05/Promptopia):** AI prompt discovery platform using Next.js and MongoDB.
 - **[Curvetopia](https://github.com/dhruvpal05/GenSolve-Hack):** ML-based edge detection and shape recognition system.
 
