@@ -13,7 +13,7 @@
 ---
 
 ### 🌱 **Research & Projects**  
-- **[Autism Prediction Model](https://github.com/dhruvpal05/AutismDetection):**  
+- **[Autism Prediction Model]([https://github.com/dhruvpal05/AutismDetection](https://colab.research.google.com/drive/1nbppgTELfJIBm9Yaw_a8SlpzKex8p4qX)):**  
   Developed a machine learning model using Decision Trees, Random Forests, and XGBoost to predict autism traits. Utilized SMOTE to address class imbalance and achieved high accuracy through cross-validation and hyperparameter optimization.  
 - **[CodeGini](https://github.com/Dakshya52/CodeGini):**  
   Research-focused VSCode extension integrating multiple LLMs for code recommendations and enhancing developer productivity.  
