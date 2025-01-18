@@ -27,9 +27,8 @@
 ### 🧠 **Research Interests**  
 - Predictive analytics in healthcare (e.g., autism detection, diagnostic models)  
 - Optimization of LLMs and AI-based developer tools  
-- Computer vision and pattern recognition  
-- Time-series forecasting for dynamic environments  
-
+- Computer vision and pattern recognition
+   
 ---
 
 ### 📫 **Get in Touch**  
